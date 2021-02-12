@@ -1,7 +1,10 @@
-
+import React from 'react';
+import Market from './components/Market'
 
 function App() {
-  return null
+  return (
+    <Market/>
+  );
 }
 
 export default App;
